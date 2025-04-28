@@ -4,14 +4,14 @@
       "id": 1,
       "nome": "Camiseta Estampada",
       "descricao": "Camiseta de algodão com estampa divertida.",
-      "preco": 20.90,
+      "preco": 999.90,
       "estoque": 150
     },
     {
       "id": 2,
       "nome": "Tênis Esportivo",
       "descricao": "Tênis leve e confortável para atividades físicas.",
-      "preco": 100.90,
+      "preco": 999.90,
       "estoque": 75
     },
     {
